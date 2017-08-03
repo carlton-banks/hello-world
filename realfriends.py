@@ -9,5 +9,7 @@ def realfriends(name):
         print("eyetalian")
   elif name == "musa":
     print("muuusas thinks hes cool because hes an oxfordboy")
+  elif name == "naima":
+    print("RUHUL BRING ME MILKSHAKESSSSSSSSSSSSS")
   else:
     print("no")
