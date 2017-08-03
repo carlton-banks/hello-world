@@ -1,0 +1,12 @@
+var x =
+var y =
+var z =
+var a = x*y*z
+if (var a <0 )
+	{console.log("
+	
+	else { console.log("false") }
+	
+	
+def methodname(x,y,z)
+return x*y*z

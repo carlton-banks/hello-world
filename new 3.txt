@@ -1,0 +1,29 @@
+Alternative to if else statement.
+
+switch (x)
+   case “red”:
+                car.wait();
+                break;
+   case “yellow”:
+                car.startDrivingSlowly();
+                break;
+  case “green":
+                car.drive();
+                break;
+
+
+The break statement stops the code executing when the condition is met.
+
+switch (season)
+	case "spring":
+				weather.rain();
+				break;
+	case "summer":
+				weather.rain();
+				break;
+	case "autumn":
+				weather.rain
+				break;
+	case "winter":
+				weather.hail
+				break;

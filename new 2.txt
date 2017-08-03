@@ -1,0 +1,9 @@
+def favouriteteam(team) {
+	if(team != liverpool)
+	{
+		console.log("you suck")
+	} else {
+		console.log("yes")
+	}
+}
+		
