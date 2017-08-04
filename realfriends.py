@@ -11,5 +11,7 @@ def realfriends(name):
     print("muuusas thinks hes cool because hes an oxfordboy")
   elif name == "naima":
     print("RUHUL BRING ME MILKSHAKESSSSSSSSSSSSS")
+  elif name == "abdi":
+    print("superior")
   else:
-    print("no")
+    print("inferior")
